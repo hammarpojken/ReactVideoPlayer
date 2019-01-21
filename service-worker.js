@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hammarpojken/ReactVideoPlayer/precache-manifest.f1774c3c0e65f39feed937a2800e1191.js"
+  "/ReactVideoPlayer/precache-manifest.daab2b7fe1ee4fed8307c17f85bd1105.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hammarpojken/ReactVideoPlayer/index.html", {
+workbox.routing.registerNavigationRoute("/ReactVideoPlayer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/hammarpojken/ReactVideoPlayer/static/css/main.b9cd1c21.chunk.css",
-  "main.js": "/hammarpojken/ReactVideoPlayer/static/js/main.219f5193.chunk.js",
-  "main.js.map": "/hammarpojken/ReactVideoPlayer/static/js/main.219f5193.chunk.js.map",
-  "static/js/1.102c3bf2.chunk.js": "/hammarpojken/ReactVideoPlayer/static/js/1.102c3bf2.chunk.js",
-  "static/js/1.102c3bf2.chunk.js.map": "/hammarpojken/ReactVideoPlayer/static/js/1.102c3bf2.chunk.js.map",
-  "runtime~main.js": "/hammarpojken/ReactVideoPlayer/static/js/runtime~main.ee7cd492.js",
-  "runtime~main.js.map": "/hammarpojken/ReactVideoPlayer/static/js/runtime~main.ee7cd492.js.map",
-  "static/css/main.b9cd1c21.chunk.css.map": "/hammarpojken/ReactVideoPlayer/static/css/main.b9cd1c21.chunk.css.map",
-  "index.html": "/hammarpojken/ReactVideoPlayer/index.html",
-  "precache-manifest.f1774c3c0e65f39feed937a2800e1191.js": "/hammarpojken/ReactVideoPlayer/precache-manifest.f1774c3c0e65f39feed937a2800e1191.js",
-  "service-worker.js": "/hammarpojken/ReactVideoPlayer/service-worker.js"
+  "main.css": "/ReactVideoPlayer/static/css/main.b9cd1c21.chunk.css",
+  "main.js": "/ReactVideoPlayer/static/js/main.219f5193.chunk.js",
+  "main.js.map": "/ReactVideoPlayer/static/js/main.219f5193.chunk.js.map",
+  "static/js/1.102c3bf2.chunk.js": "/ReactVideoPlayer/static/js/1.102c3bf2.chunk.js",
+  "static/js/1.102c3bf2.chunk.js.map": "/ReactVideoPlayer/static/js/1.102c3bf2.chunk.js.map",
+  "runtime~main.js": "/ReactVideoPlayer/static/js/runtime~main.e4001bd8.js",
+  "runtime~main.js.map": "/ReactVideoPlayer/static/js/runtime~main.e4001bd8.js.map",
+  "static/css/main.b9cd1c21.chunk.css.map": "/ReactVideoPlayer/static/css/main.b9cd1c21.chunk.css.map",
+  "index.html": "/ReactVideoPlayer/index.html",
+  "precache-manifest.daab2b7fe1ee4fed8307c17f85bd1105.js": "/ReactVideoPlayer/precache-manifest.daab2b7fe1ee4fed8307c17f85bd1105.js",
+  "service-worker.js": "/ReactVideoPlayer/service-worker.js"
 }
