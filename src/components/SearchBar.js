@@ -7,6 +7,7 @@ export default class SearchBar extends Component {
 
   onFormSubmit = e => {
     e.preventDefault();
+    this.props.onFormSubmit(this.state.userInput);
   };
   onInputChange = e => {
     this.setState({
@@ -16,9 +17,9 @@ export default class SearchBar extends Component {
 
   render() {
     return (
-      <div className="ui segment">
+      <div className="search-bar ui segment">
         <form className="ui form" onSubmit={this.onFormSubmit}>
-          <div>
+          <div className="field">
             <label>Search Video!</label>
 
             <input
