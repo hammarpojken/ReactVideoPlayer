@@ -16,7 +16,8 @@ export default class App extends Component {
       }
     });
     this.setState({
-      videoResults: response.data.items
+      videoResults: response.data.items,
+      selectedVideo: response.data.items[0]
     });
   };
   onVideoSelect = video => {
@@ -25,6 +26,10 @@ export default class App extends Component {
       selectedVideo: video
     });
   };
+
+  componentDidMount() {
+    this.onInputSubmit("candy");
+  }
 
   render() {
     return (
